@@ -15,11 +15,6 @@ const Index = props => (
       ))}
     </ul>
     <style jsx>{`
-      h1,
-      a {
-        font-family: "Arial";
-      }
-
       ul {
         padding: 0;
       }

@@ -10,7 +10,6 @@ const PostLink = props => (
       a {
         text-decoration: none;
         color: blue;
-        font-family: "Arial";
       }
 
       a:hover {

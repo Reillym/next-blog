@@ -18,10 +18,6 @@ And here's the content.
       />
     </div>
     <style jsx global>{`
-      .markdown {
-        font-family: "Arial";
-      }
-
       .markdown a {
         text-decoration: none;
         color: orange;

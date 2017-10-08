@@ -21,10 +21,6 @@ const Blog = () => (
       ))}
     </ul>
     <style jsx>{`
-      h1 {
-        font-family: "Arial";
-      }
-
       ul {
         padding: 0;
       }

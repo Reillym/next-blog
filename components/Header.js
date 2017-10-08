@@ -29,6 +29,12 @@ const Header = () => (
     <Link href="/blog">
       <a style={linkStyle}>Blog</a>
     </Link>
+    <style jsx global>{`
+      body {
+        font-family: 'Arial';
+        font-size: 16px;
+      }
+    `}</style>
   </div>
 );
 
